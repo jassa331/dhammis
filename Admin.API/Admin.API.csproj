@@ -19,8 +19,4 @@
   <ItemGroup>
     <Folder Include="wwwroot\images\" />
   </ItemGroup>
-
-   <ItemGroup>
-    <ProjectReference Include="..\Authentication\Authentication.csproj" />
-  </ItemGroup>
 </Project>
